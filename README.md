@@ -1,2 +1,5 @@
-# Introduction-to-The-Markov-Decision-Process-and-Dynamic-Programming
-The module covers the theory behind reinforcement learning and introduces Markov chains and Markov Decision Processes.
+# Introduction to The Markov Decision Process and Dynamic Programming
+[![GitHub issues](https://img.shields.io/github/issues/Develop-Packt/Introduction-to-The-Markov-Decision-Process-and-Dynamic-Programming.svg)](https://github.com/Develop-Packt/Introduction-to-The-Markov-Decision-Process-and-Dynamic-Programming/issues)
+[![GitHub forks](https://img.shields.io/github/forks/Develop-Packt/Introduction-to-The-Markov-Decision-Process-and-Dynamic-Programming.svg)](https://github.com/Develop-Packt/Introduction-to-The-Markov-Decision-Process-and-Dynamic-Programming/network)
+[![GitHub stars](https://img.shields.io/github/stars/Develop-Packt/Introduction-to-The-Markov-Decision-Process-and-Dynamic-Programming.svg)](https://github.com/Develop-Packt/Introduction-to-The-Markov-Decision-Process-and-Dynamic-Programming/stargazers)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Develop-Packt/Introduction-to-The-Markov-Decision-Process-and-Dynamic-Programming/pulls)
